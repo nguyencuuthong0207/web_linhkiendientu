@@ -1,0 +1,17 @@
+/*RESPONSIVE*/ 
+@media screen and (max-width:800px) {
+    .fa-angle-right:before {
+        display: none;
+    }
+    #sidebar-menu .nav-item .nav-link .title {
+        padding-left:0px;
+    }
+    #add-new {
+        float: right;
+        margin: 20px 0px 10px 0;
+    }
+    #logo {
+        padding: 15px 22px;
+    }
+}  
+    

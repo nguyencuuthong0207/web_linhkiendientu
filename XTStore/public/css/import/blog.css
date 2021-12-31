@@ -1,0 +1,26 @@
+
+.blog-section {
+    display: flex;
+    margin: 12px;
+    align-items: center;
+}
+.post-content {
+    padding-left: 12px;
+    max-width: 575px;
+}
+.img-post {
+    width: 250px;
+    display: block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+.post-title {
+    font-size: 24px;
+    color: #000000;
+    
+}
+.create-date {
+    display: block;
+    color: #a0a0a0;
+    font-style: italic;
+}
